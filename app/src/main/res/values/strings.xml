@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="save">Save</string>
+    <string name="balance">Balance: %1$d</string>
+    <string name="nameErrorMessage">The income or expense needs a name!</string>
+    <string name="amountErrorMessageEmpty">The income or expense needs an amount!</string>
+    <string name="delete_all">Delete All</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="this_view_shows_your_current_balance">This view shows your current balance:</string>
+    <string name="incomeSummary">Income: %1$d</string>
+    <string name="expenseSummary">Expense: %1$d</string>
+    <string name="total">Total: %1$d</string>
+    <string name="summary">Summary</string>
+</resources>
